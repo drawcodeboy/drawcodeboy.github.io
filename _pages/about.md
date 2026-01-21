@@ -17,3 +17,7 @@ Research of Interest
 - Generative Models
 - Medical AI
 
+News
+======
+- Jan, 2026. I joined <a href="https://sites.google.com/view/jaejunyoo/home">LAIT</a>@UNIST as an intern.
+- Apr, 2024. I joined CVML@UOU as an intern.
