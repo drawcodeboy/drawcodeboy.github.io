@@ -13,11 +13,10 @@ Hello, I'm Dawoon Kwon.
 
 Research of Interest
 ======
-- Disentangled Representation Learning
-- Generative Models
+- Agent
 - Medical AI
 
 News
 ======
-- Jan, 2026. I joined <a href="https://sites.google.com/view/jaejunyoo/home">LAIT</a>@UNIST as an intern.
+- Oct, 2026. I joined CVML@UOU as a researcher.
 - Apr, 2024. I joined CVML@UOU as an intern.
